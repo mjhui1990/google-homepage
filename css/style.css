@@ -30,7 +30,8 @@ header a:hover {
 
 
 
-.googlelogo {
+#googlelogo {
+    margin-top: 100px;
     padding: 100px;
 	position: relative;
 
